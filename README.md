@@ -1,5 +1,5 @@
 ### 🚀 About Me
-I craft clean, responsive, and performant cross‑platform experiences—primarily in the .NET ecosystem—spanning desktop (WPF, Avalonia), mobile (.NET MAUI / former Xamarin), and the web (Astro, Vue). I enjoy turning ideas into polished developer & user tooling: from collaborative music production desktop apps to lightweight FastAPI backends and community Discord bots.
+I craft clean, responsive, and performant cross‑platform experiences — primarily in the .NET ecosystem — spanning desktop (WPF, Avalonia), mobile (.NET MAUI / former Xamarin), and the web (Astro, Vue). I love turning ideas into polished developer & user tooling: from collaborative music production desktop apps to lightweight FastAPI backends and community Discord bots.
 
 ### 🛠️ Core Skillset
 - **Desktop & Cross‑Platform:** .NET MAUI (Xamarin heritage), WPF, Avalonia
