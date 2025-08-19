@@ -18,7 +18,7 @@ Improving build pipelines, lightweight observability, and smarter component reus
 ### 📦 Selected Tech Toolbox
 | UI / UX | Platform | Web | Backend | Tooling |
 |---------|----------|-----|---------|---------|
-| WPF • Avalonia • MAUI | .NET 8 | Astro • Vue | FastAPI • REST | GitHub Actions • Docker |
+| WPF • Avalonia • MAUI | .NET 9 | Astro • Vue | FastAPI • REST | GitHub Actions • Docker |
 
 <!---
 JenBytes/JenBytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
