@@ -20,6 +20,8 @@ Improving build pipelines, lightweight observability, and smarter component reus
 |---------|----------|-----|---------|---------|
 | WPF • Avalonia • MAUI | .NET 9 | Astro • Vue | FastAPI • REST | GitHub Actions • Docker |
 
+![Stats](./profile/stats.svg)
+
 <!---
 JenBytes/JenBytes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
