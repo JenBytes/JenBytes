@@ -27,7 +27,7 @@ making it easier to share, sync and work on DAW projects together without pain
 
 ### 🛠️ Tech Stack
 
-C# • .NET • WPF • Avalonia • MAUI
+C# • .NET • Avalonia • MAUI • WPF
 
 HTML • CSS • JS • TS
 
