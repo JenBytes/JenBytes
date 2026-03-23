@@ -1,24 +1,70 @@
-### 🚀 About Me
-I craft clean, responsive, and performant cross‑platform experiences — primarily in the .NET ecosystem — spanning desktop (WPF, Avalonia), mobile (.NET MAUI / former Xamarin), and the web (Astro, Vue). I love turning ideas into polished developer & user tooling: from collaborative music production desktop apps to lightweight FastAPI backends and community Discord bots.
+### 👋 Hi, I'm JenByte
 
-### 🛠️ Core Skillset
-- **Desktop & Cross‑Platform:** .NET MAUI (Xamarin heritage), WPF, Avalonia
-- **Mobile:** .NET MAUI (Android / iOS), previous Xamarin Forms projects
-- **Web UI & Frontend:** Astro (content + islands), Vue.js (component design, state mgmt)
-- **APIs & Services:** FastAPI (Python), REST design, auth & integration
-- **Automation & Bots:** Discord bots (utilities, friend group tooling)
-- **Engineering Practices:** MVVM patterns, modular architecture, async patterns, CI/CD with GitHub Actions
+Software Developer, music producer, DJ and creative mind
 
-### 🎧 Current Focus
-Building a cross‑platform **Avalonia** desktop application to streamline and enhance digital music production collaboration (session organization, asset sync, creative workflow tooling).
+I build tools, apps and little ideas mostly with C# and .NET.
+I like things that feel good to use, not just things that work.
 
-### 🌱 Also Exploring
-Improving build pipelines, lightweight observability, and smarter component reuse across desktop & web surfaces.
+---
 
-### 📦 Selected Tech Toolbox
-| UI / UX | Platform | Web | Backend | Tooling |
-|---------|----------|-----|---------|---------|
-| WPF • Avalonia • MAUI | .NET 9 | Astro • Vue | FastAPI • REST | GitHub Actions • Docker |
+### 💻 Stuff I do
+
+* cross platform apps (Avalonia, MAUI)
+* desktop applications (WPF, Avalonia)
+* web things (HTML, CSS, JS, Astro, Vue, Svelte)
+* random tools, Discord bots, automation
+* open source contributions here and there
+
+---
+
+### 🚧 Currently
+
+working on a cross platform Avalonia app for music collaboration
+
+making it easier to share, sync and work on DAW projects together without pain
+
+---
+
+### 🛠️ Tech Stack
+
+C# • .NET • WPF • Avalonia • MAUI
+
+HTML • CSS • JS • TS
+
+Astro • Svelte • Vue 
+
+Git • Docker • CI/CD
+
+---
+
+### 🎧 Music
+
+I make electronic music and love to spend lots of time on sound design
+I mostly make Drum & Bass tracks but also lots of other genres 
+
+* [Soundcloud](https://soundcloud.com/jenbyte)
+* [Bandcamp](https://jenbyte.bandcamp.com)
+
+I'm part of [Fancy Spirits](https://github.com/fancyspirits)
+
+https://soundcloud.com/fancyspirits
+
+---
+
+### 🌍 Elsewhere
+
+you can find my other work on
+
+* Codeberg: [https://codeberg.org/JenByte](https://codeberg.org/JenByte)
+* My Website: https://jenbyte.com
+
+---
+
+### ✨
+
+if it’s creative, a bit weird or improves a workflow, I’m probably interested!
+
+### 📊 Stats 
 
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
