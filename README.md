@@ -56,7 +56,7 @@ https://soundcloud.com/fancyspirits
 you can find my other work on
 
 * Codeberg: [https://codeberg.org/JenByte](https://codeberg.org/JenByte)
-* My Website: https://jenbyte.com
+* ~~My Website: https://jenbyte.com~~ still work in progress
 
 ---
 
